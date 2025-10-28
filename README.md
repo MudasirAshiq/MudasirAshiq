@@ -3,7 +3,7 @@
 <h3 align="center">🚀 MERN Stack | Flutter | WordPress | Shopify Developer 💻</h3>
 
 <p align="center">
-  <img src="https://www.freepik.com/premium-ai-image/3d-render-icon-8k-3d-model-illustrator-3d-render-clay-style-glowing-lightbulb-representing-inno_384147439.htm#fromView=keyword&page=1&position=31&uuid=2f251813-a405-46eb-bf4e-12e48814e568&query=Full+stack+developer+avatar" alt="MudasirAshiq" />
+  <img src="C:\Users\Mudasir Ashiq\Downloads\image-1" alt="MudasirAshiq" width="200px" height="300px" />
 </p>
 
 ---
