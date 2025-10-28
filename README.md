@@ -3,7 +3,7 @@
 <h3 align="center">🚀 MERN Stack | Flutter | WordPress | Shopify Developer 💻</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MudasirAshiq&label=Profile%20views&color=0e75b6&style=flat" alt="MudasirAshiq" />
+  <img src="https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png" alt="MudasirAshiq" />
 </p>
 
 ---
