@@ -3,7 +3,7 @@
 <h3 align="center">🚀 MERN Stack | Flutter | WordPress | Shopify Developer 💻</h3>
 
 <p align="center">
-  <img src="https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png" alt="MudasirAshiq" />
+  <img src="[https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png](https://media.licdn.com/dms/image/v2/D4E03AQHIh9aLbyyGmA/profile-displayphoto-crop_800_800/B4EZmQN7.IKUAI-/0/1759061198315?e=1762992000&v=beta&t=uno3fsF76srPTVCy-i0WdBxexZt_JJm_9FzR5w9LpT4)" alt="MudasirAshiq" />
 </p>
 
 ---
