@@ -3,7 +3,7 @@
 <h3 align="center">🚀 MERN Stack | Flutter | WordPress | Shopify Developer 💻</h3>
 
 <p align="center">
-  <img src="C:\Users\Mudasir Ashiq\Downloads\" alt="MudasirAshiq" width="200px" height="300px" />
+  <img src="" alt="MudasirAshiq" width="200px" height="300px" />
 </p>
 
 ---
